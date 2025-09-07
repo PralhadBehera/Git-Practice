@@ -21,3 +21,6 @@ df.show()
 
 # Stop Spark session
 spark.stop()
+
+
+# This is a simple PySpark script that creates a Spark session,
