@@ -1,0 +1,5 @@
+*.log 
+*.json 
+.bash_history 
+.gitconfig 
+/C:/Users/druva/*
